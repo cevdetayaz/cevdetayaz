@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cevdetayaz&label=Profile%20views&color=0e75b6&style=flat" alt="cevdetayaz" /> </p>
 
-- 🌱 I’m currently learning **python, selenium, rest api.**
+- 🌱 I’m currently working for Infotech Bilisim ve Iletisim Teknolojileri A.S. as a **Software Test Engineer**
+- My daily job include doing manuel tests and automate some of them.
+- I am using selenium, java, testng framework for automation jobs.
+- Also using postman, soapui, oracle db, postgre db.
 
 - 📫 How to reach me **cevdetayaz@gmail.com**
 
