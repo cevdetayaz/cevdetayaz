@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cevdetayaz&label=Profile%20views&color=0e75b6&style=flat" alt="cevdetayaz" /> </p>
 
 - 🌱 I’m currently working for Infotech Bilisim ve Iletisim Teknolojileri A.S. as a **Software Test Engineer**
-- My daily job include doing manuel tests and automate some of them.
-- I am using selenium, java, testng framework for automation jobs.
-- Also using postman, soapui, oracle db, postgre db.
+- My daily job includes conducting manual tests and automating some of them.
+- For automation tasks, I use Selenium, Java, and TestNG framework.
+- I also utilize tools such as Postman, SOAPUI, Oracle DB, and Postgre DB.
 
 - 📫 How to reach me **cevdetayaz@gmail.com**
 
